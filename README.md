@@ -19,7 +19,7 @@ A RESTful Book Store Management System built using Spring Boot, Spring Data JPA,
 
 Backend
 
-* Java 17+
+* Java 25
 * Spring Boot
 * Spring Data JPA
 * Hibernate
@@ -40,6 +40,7 @@ Tools
 
 📂 Project Structure
 
+
 src
 ├── main
 │   ├── java
@@ -52,6 +53,7 @@ src
 │   └── resources
 │       └── application.properties
 └── test
+
 
 📖 API Endpoints
 
