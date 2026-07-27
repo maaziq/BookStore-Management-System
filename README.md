@@ -40,7 +40,7 @@ Tools
 
 📂 Project Structure
 
-
+––––––––––––––––––
 src
 ├── main
 │   ├── java
@@ -53,6 +53,10 @@ src
 │   └── resources
 │       └── application.properties
 └── test
+
+
+––––––––––––––––––––
+
 
 
 📖 API Endpoints
